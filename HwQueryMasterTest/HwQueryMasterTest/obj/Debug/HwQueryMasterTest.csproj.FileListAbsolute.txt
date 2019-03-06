@@ -1,0 +1,14 @@
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\bin\Debug\HwQueryMasterTest.dll
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\bin\Debug\HwQueryMasterTest.pdb
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\obj\Debug\HwQueryMasterTest.csprojAssemblyReference.cache
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\obj\Debug\HwQueryMasterTest.csproj.CoreCompileInputs.cache
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\obj\Debug\HwQueryMasterTest.csproj.CopyComplete
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\obj\Debug\HwQueryMasterTest.dll
+C:\Projects\Education\HwQueryMasterTest\HwQueryMasterTest\obj\Debug\HwQueryMasterTest.pdb

@@ -1,0 +1,2 @@
+INSERT INTO Urun (UrunAdi,Fiyat,Kategori,Stokta) Values ('Hp intel core i7',2500,3)
+INSERT INTO Urun (UrunAdi,Fiyat,Kategori,Stokta) Values ('Hp intel core i7',2500,3)

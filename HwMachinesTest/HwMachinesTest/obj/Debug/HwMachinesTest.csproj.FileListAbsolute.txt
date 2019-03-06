@@ -1,0 +1,14 @@
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\bin\Debug\HwMachinesTest.dll
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\bin\Debug\HwMachinesTest.pdb
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\obj\Debug\HwMachinesTest.csproj.CoreCompileInputs.cache
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\obj\Debug\HwMachinesTest.csproj.CopyComplete
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\obj\Debug\HwMachinesTest.dll
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\obj\Debug\HwMachinesTest.pdb
+C:\Projects\Education\HwMachinesTest\HwMachinesTest\obj\Debug\HwMachinesTest.csprojAssemblyReference.cache
